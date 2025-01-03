@@ -22,3 +22,7 @@ YouTube Music 7.25.52 (armeabi-v7a) (nodpi) (Android 8.0+) @@ https://vk.com/doc
 YouTube Music 7.25.52 (arm64-v8a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124514?hash=zybwhZz1YUKgLLnRZzRbN6QtTUnYnoGlMc2tTq2UZNo&dl=p5eic1wQ4YPqjAnPTms1geWHF57BJnybQYSWJPKXogH&api=1&no_preview=1
 YouTube Music 7.25.52 (x86) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124516?hash=C1cz31UThPgr8AzyLAq7dBo8zuYQF9Uej7D9mGvWTAc&dl=MBopjbKuqT0NikbCEUkFwoAj4Fh5uWviI6I7Du9Ct04&api=1&no_preview=1
 YouTube Music 7.25.52 (x86_64) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124520?hash=6H9uqB5DzK7DZPVeYvgWEbB93QhimYWGZagSLZSQyz0&dl=gTlXOu2VI0T1N7JhgZedA1ZZHhe7GMUR37uURqhznZk&api=1&no_preview=1
+YouTube Music 7.25.53 (armeabi-v7a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688314652?hash=U7I07fyvWOCmCDzw7mv70vGZD5Z0T7PnvqzolZYDtCD&dl=E4ozK4ZJ99hJKTpaYKtPykGIMYJCXiZ7VzmYTkMWAeg&api=1&no_preview=1
+YouTube Music 7.25.53 (arm64-v8a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688314653?hash=CVizguxPE9ApIxqNVGCLFRzE4ZSHbp03vXVcXrbo8mX&dl=787CeH4XChlTZwOwfnkccOh72fDYzS764nFwQjpyYNH&api=1&no_preview=1
+YouTube Music 7.25.53 (x86) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688314655?hash=cVbdBWmGuWyx9e6m59JJetgNNdhMtF9ioIZe0XaeXrL&dl=giXH8i8cUnlK31UlLzTY2t9xgtzGP8htA7BYZI1Auwg&api=1&no_preview=1
+YouTube Music 7.25.53 (x86_64) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688314656?hash=XkiLQsb4c0zNxH3YWoD65WiFeoMlSm0whZ6MVOHrfWz&dl=rfyV4xttz4KiRTiL4CVjkHkxQu9c9zXUzIb4T5ez92k&api=1&no_preview=1
