@@ -1,28 +1,28 @@
-YouTube Music 6.20.51 (armeabi-v7a) (nodpi) (Android 5.0+) @@ https://vk.com/doc318271743_687935935?hash=iEP8BPpnfVqUTZRkZSFE3F6azBSKnAN7u7tynrH5pnX&dl=nvejo3TDOdkgI170hD3YdZ13tbpTTNa8gKWgYl9pbPo&api=1&no_preview=1
-YouTube Music 6.20.51 (arm64-v8a) (nodpi) (Android 5.0+) @@ https://vk.com/doc318271743_687935949?hash=HOvZzu5AGtvwnP4Le9Nd5kvvposZO5ozf6TMths7ow8&dl=5aeo3oTYIX31RbB7oVNJPvQwHAk1MT5U7dndaQaMScL&api=1&no_preview=1
-YouTube Music 6.20.51 (x86) (nodpi) (Android 5.0+) @@ https://vk.com/doc318271743_687935957?hash=SNN95UUCXD6nTS7REyGs3x3Y2etQzyEp9w6BAOmHOFo&dl=fYUlUHGvcanqsM26Kmo0iXAUB0LjHqA6QRVihNy5J74&api=1&no_preview=1
-YouTube Music 6.20.51 (x86_64) (nodpi) (Android 5.0+) @@ https://vk.com/doc318271743_687935966?hash=Zl7LMqriEogwFRb4BILd6XuxnmwrVO7vPRZfVYZZtAL&dl=2OkRjKqourUd9jSeDeTP364tWisLfzRyGupBmWI3wnw&api=1&no_preview=1
-YouTube Music 6.29.59 (armeabi-v7a) (nodpi) (Android 7.0+) @@ https://vk.com/doc318271743_687935982?hash=8HAPNAFWux6W8jlgP9IcHDgJHN04XyezZq3mzPTvXZP&dl=GQEAVOyhZ62AFX5DdiiEdGYui50juqE5q8YCjP27Ljz&api=1&no_preview=1
-YouTube Music 6.29.59 (arm64-v8a) (nodpi) (Android 7.0+) @@ https://vk.com/doc318271743_687935990?hash=oe8b2WZm5yMhNXGgqyUGzYs0EeNK46ZiCHI9nLL6ze0&dl=JLcaVmmFSxlBFczDw4Z37tBKy2rj8myQSmd99IfKu4g&api=1&no_preview=1
-YouTube Music 6.42.55 (armeabi-v7a) (nodpi) (Android 7.0+) @@ https://vk.com/doc318271743_687936003?hash=i5ZE0Cd8FZxKILFeRJ1zDFoPavW9kVzXCscMvKvQryH&dl=fqdmJTMUYLoDM3LbGMlyPwfR7Ztz1pXsOuasZ0wyGuc&api=1&no_preview=1
-YouTube Music 6.42.55 (arm64-v8a) (nodpi) (Android 7.0+) @@ https://vk.com/doc318271743_687936017?hash=FfibCsSKoHbYAX4h04QqhrI2VfQgTZJ1k7dwZAXZexX&dl=1drbWrxMILDhAlDR71E5uj1SbEqZCTdgznvJJJ40gHo&api=1&no_preview=1
-YouTube Music 6.51.53 (armeabi-v7a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936032?hash=QbRizK3WLgFI3t4IBjOv0ZzLwNqz3lFtx3Ba9yAcD0k&dl=M1o3j8oheCEs8vEqdbizbbZLt9DlULLCxzWU0TauJKw&api=1&no_preview=1
-YouTube Music 6.51.53 (arm64-v8a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936042?hash=KoIb3k7Tu3XhwNuIbFAL1TpUjES7zs4bgVI8kJenMmL&dl=WrpIcpdNRqcUlvY2X3HrqsGwRiN0zgrfurzzkJ6qOTk&api=1&no_preview=1
-YouTube Music 6.51.53 (x86) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936052?hash=h9Dy4d6KfEurz6866SpKEi2ZJM5UeijB8Zcd8zj1Eao&dl=f55ltS68nbsfhdjs0vZ5V0rKUSOHbFhCH4UFfrnOFok&api=1&no_preview=1
-YouTube Music 6.51.53 (x86_64) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936064?hash=0gwZzD2Timatfef0BS7dK0BmPfM7RHNA7UXmW4N4hxg&dl=fJhCi8wS6llSVJf9A4p4tDBk20284nqFHxZpz5fNoRw&api=1&no_preview=1
-YouTube Music 7.06.54 (armeabi-v7a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124495?hash=c1JHiIH1vyU6FbFJ1CmZrhG5yFNtZzuSO6Lq0YrasgX&dl=hRF77V4ileLDBCdcefWJsZ5da1I5jEfnUGcB82PK8Xz&api=1&no_preview=1
-YouTube Music 7.06.54 (arm64-v8a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124500?hash=XuVv2jB3cziZ9PMwb3Gft62m0P7yaYtRSaMzp9MgMrk&dl=g6IwfZNnjaikuoMEHMlzo70L0LCHP9hSNQ6elrHnHco&api=1&no_preview=1
-YouTube Music 7.06.54 (x86) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124507?hash=ClPOpHA8ehHpA1Y6Fkht1ogzTv3P3YCVoxkSBlspGBE&dl=rQrkRjyArnUFa2a3iIpUtNlMSkmHZyaBzKwXwS3Iiog&api=1&no_preview=1
-YouTube Music 7.06.54 (x86_64) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124509?hash=E5tsWbUSpj2mDA0iMHNZin465hvjXgSWhFTzYyaUKH8&dl=shoDpdCCQOiaEDOFVO1F3t9w5zHAssoKpbDNP5S2vEg&api=1&no_preview=1
-YouTube Music 7.16.53 (armeabi-v7a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936080?hash=mBXekbD8pg7ys2bCuRItvt7q36kZNQQUVTeDBLmbGNX&dl=y5B9tK8swXZ338AcRC7jGRqBenJHtuS9lXkoDztGo1s&api=1&no_preview=1
-YouTube Music 7.16.53 (arm64-v8a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936097?hash=EBxi0EQT8MiczK3bMZbzKAz6eplNwwZv3STz6HJt2m4&dl=rYdZM0NxR8zNs0CA423KmnmvR43z0K1PxmNCIjdeel8&api=1&no_preview=1
-YouTube Music 7.16.53 (x86) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936107?hash=yUlQpeK04khbS08oqwRpeEtrqVoo3Qf7JKTAw0dSkvX&dl=Z3GOEuNZsl7L3prcmEagLopYTrAv0aIUWGyeveqJlcc&api=1&no_preview=1
-YouTube Music 7.16.53 (x86_64) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_687936127?hash=9VLqkb7IZYG7gwpkdPRVJx9KM7SLP41Bv6vnc0aHqVg&dl=SFt5mT9urSH6gO75S6qudEe2JRO2Y0wvzU2mcjZfawL&api=1&no_preview=1
-YouTube Music 7.25.52 (armeabi-v7a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124511?hash=OWV8FUGnUTyIGMt0bqzMrSFCnYmzkZwj88Q5CokOhtz&dl=9Xs9JKw5EzBzpwLvKvpixLSRgTPtZgc7jaoLSNqHMnc&api=1&no_preview=1
-YouTube Music 7.25.52 (arm64-v8a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124514?hash=zybwhZz1YUKgLLnRZzRbN6QtTUnYnoGlMc2tTq2UZNo&dl=p5eic1wQ4YPqjAnPTms1geWHF57BJnybQYSWJPKXogH&api=1&no_preview=1
-YouTube Music 7.25.52 (x86) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124516?hash=C1cz31UThPgr8AzyLAq7dBo8zuYQF9Uej7D9mGvWTAc&dl=MBopjbKuqT0NikbCEUkFwoAj4Fh5uWviI6I7Du9Ct04&api=1&no_preview=1
-YouTube Music 7.25.52 (x86_64) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688124520?hash=6H9uqB5DzK7DZPVeYvgWEbB93QhimYWGZagSLZSQyz0&dl=gTlXOu2VI0T1N7JhgZedA1ZZHhe7GMUR37uURqhznZk&api=1&no_preview=1
-YouTube Music 7.25.53 (armeabi-v7a) (nodpi) (Android 8.0+) @@ https://archive.org/download/RvxEx/YouTube%20Music%207.25.53%20%28armeabi-v7a%29%20%28nodpi%29%20%28Android%208.0%2B%29.7z
-YouTube Music 7.25.53 (arm64-v8a) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688314653?hash=CVizguxPE9ApIxqNVGCLFRzE4ZSHbp03vXVcXrbo8mX&dl=787CeH4XChlTZwOwfnkccOh72fDYzS764nFwQjpyYNH&api=1&no_preview=1
-YouTube Music 7.25.53 (x86) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688314655?hash=cVbdBWmGuWyx9e6m59JJetgNNdhMtF9ioIZe0XaeXrL&dl=giXH8i8cUnlK31UlLzTY2t9xgtzGP8htA7BYZI1Auwg&api=1&no_preview=1
-YouTube Music 7.25.53 (x86_64) (nodpi) (Android 8.0+) @@ https://vk.com/doc318271743_688314656?hash=XkiLQsb4c0zNxH3YWoD65WiFeoMlSm0whZ6MVOHrfWz&dl=rfyV4xttz4KiRTiL4CVjkHkxQu9c9zXUzIb4T5ez92k&api=1&no_preview=1
+YouTube Music 6.20.51 (arm64-v8a) (nodpi) (Android 5.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.20.51 (arm64-v8a) (nodpi) (Android 5.0+).7z
+YouTube Music 6.20.51 (armeabi-v7a) (nodpi) (Android 5.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.20.51 (armeabi-v7a) (nodpi) (Android 5.0+).7z
+YouTube Music 6.20.51 (x86) (nodpi) (Android 5.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.20.51 (x86) (nodpi) (Android 5.0+).7z
+YouTube Music 6.20.51 (x86_64) (nodpi) (Android 5.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.20.51 (x86_64) (nodpi) (Android 5.0+).7z
+YouTube Music 6.29.59 (arm64-v8a) (nodpi) (Android 7.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.29.59 (arm64-v8a) (nodpi) (Android 7.0+).7z
+YouTube Music 6.29.59 (armeabi-v7a) (nodpi) (Android 7.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.29.59 (armeabi-v7a) (nodpi) (Android 7.0+).7z
+YouTube Music 6.42.55 (arm64-v8a) (nodpi) (Android 7.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.42.55 (arm64-v8a) (nodpi) (Android 7.0+).7z
+YouTube Music 6.42.55 (armeabi-v7a) (nodpi) (Android 7.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.42.55 (armeabi-v7a) (nodpi) (Android 7.0+).7z
+YouTube Music 6.51.53 (arm64-v8a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.51.53 (arm64-v8a) (nodpi) (Android 8.0+).7z
+YouTube Music 6.51.53 (armeabi-v7a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.51.53 (armeabi-v7a) (nodpi) (Android 8.0+).7z
+YouTube Music 6.51.53 (x86) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.51.53 (x86) (nodpi) (Android 8.0+).7z
+YouTube Music 6.51.53 (x86_64) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 6.51.53 (x86_64) (nodpi) (Android 8.0+).7z
+YouTube Music 7.06.54 (arm64-v8a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.06.54 (arm64-v8a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.06.54 (armeabi-v7a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.06.54 (armeabi-v7a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.06.54 (x86) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.06.54 (x86) (nodpi) (Android 8.0+).7z
+YouTube Music 7.06.54 (x86_64) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.06.54 (x86_64) (nodpi) (Android 8.0+).7z
+YouTube Music 7.16.53 (arm64-v8a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.16.53 (arm64-v8a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.16.53 (armeabi-v7a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.16.53 (armeabi-v7a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.16.53 (x86) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.16.53 (x86) (nodpi) (Android 8.0+).7z
+YouTube Music 7.16.53 (x86_64) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.16.53 (x86_64) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.52 (arm64-v8a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.52 (arm64-v8a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.52 (armeabi-v7a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.52 (armeabi-v7a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.52 (x86) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.52 (x86) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.52 (x86_64) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.52 (x86_64) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.53 (arm64-v8a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.53 (arm64-v8a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.53 (armeabi-v7a) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.53 (armeabi-v7a) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.53 (x86) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.53 (x86) (nodpi) (Android 8.0+).7z
+YouTube Music 7.25.53 (x86_64) (nodpi) (Android 8.0+).7z @@ https://archive.org/download/RvxEx/YouTube Music 7.25.53 (x86_64) (nodpi) (Android 8.0+).7z
